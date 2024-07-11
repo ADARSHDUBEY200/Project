@@ -1,0 +1,20 @@
+.researcher-details {
+    text-align: center;
+    
+  }
+  
+  .profile-picture {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .researcher-info {
+    margin-top: 10px;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
